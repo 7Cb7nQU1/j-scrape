@@ -11,8 +11,4 @@ hs_err_pid*
 
 
 ## PERSONAL ##
-*/*.swp		# VIM Swap files
-*.*~		# Backup/lock files
 bin/
-dat/args.txt~
-./.gitignore~
