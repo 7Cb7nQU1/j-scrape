@@ -10,7 +10,7 @@
 4. Grab a list of links using user modes
 5. Add more sorting methods
 6. Add a watch mode (download as new ones are posted)
-7. Port to Android/Web for more distribution potential
+7. Port to Android/Web for more distribution possibilities
 
 ---
 
