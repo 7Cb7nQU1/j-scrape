@@ -4,6 +4,7 @@
 ---
 
 ## To-Do (In order)
+1. Decide whether to use a premade API wrapper or write our own (for both Reddit and Imgur)
 1. Download images from Imgur
 2. Determine if a link is to imgur or not, remove the nots
 3. Grab a list of links using subreddit modes
@@ -17,3 +18,9 @@
 ## Required Libraries
 
 * TBD
+
+---
+
+## Notes
+
+We will likely end up just skipping the API altogether and ripping images from imgur directly, but reddit will need a wrapper. Whether we write our own or import someone elses library is still a coin-toss.
