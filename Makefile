@@ -5,6 +5,7 @@ endif
 compile:
 	# Cleanup
 	[ -d bin ] || mkdir bin
+	[ -d bin/class ] || mkdir bin/class
 	rm -f ./bin/class/*.class
 	rm -f ./bin/scrape.jar
 	# Collect list of source files
