@@ -20,4 +20,8 @@ compile:
 	chmod a+x ./bin/scrape.jar
 	# More cleanup
 	rm -f ./dat/filelist.txt
+	echo ""
 
+run: compile
+	echo ""
+	java -jar "./bin/scrape.jar"
