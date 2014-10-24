@@ -17,4 +17,6 @@ compile:
 	jar cvfm ../scrape.jar ../../dat/manifest.txt "./"
 	# Make the jar executable
 	chmod a+x ./bin/scrape.jar
+	# More cleanup
+	rm -f ./dat/filelist.txt
 
